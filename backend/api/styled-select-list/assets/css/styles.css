@@ -1,0 +1,80 @@
+body { font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif }
+
+.prettyfied-select {
+  height: 33px;
+  display: inline-block;
+  min-width: 200px;
+  position: relative;
+  background: #eee;
+}
+
+.prettyfied-select .prettyfied-select-box,
+.prettyfied-select .dropDown {
+  font-size: 11px;
+  font-weight: bold;
+  color: #444;
+}
+
+.prettyfied-select .prettyfied-select-box {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  line-height: 33px;
+  cursor: pointer;
+  background-image:url('../img/arrow.png');
+  background-position: right 9px;
+  background-repeat: no-repeat;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.prettyfied-select .prettyfied-select-box span {
+  padding-left: 8px;
+}
+
+.prettyfied-select .dropDown {
+  position: absolute;
+  z-index: 999;
+  top: 32px;
+  left: 0px;
+  min-width: 200px;
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  border: 1px solid;
+  border-top: 0;
+  background: #eee;
+  border-radius: 0 0 2px 2px;
+}
+
+.prettyfied-select .prettyfied-select-box:hover,
+.prettyfied-select .prettyfied-select-box.expanded,
+.prettyfied-select .dropDown {
+  border-color: #a4a4a4;
+}
+
+.prettyfied-select .dropDown.is-hidden {
+  border-color: #ccc;
+  box-shadow: none;
+}
+
+.prettyfied-select .dropDown li {
+  display: block;
+  line-height: 16px;
+  padding: 8px 0 8px 8px;
+  cursor: pointer;
+}
+
+.prettyfied-select .dropDown li.hover {
+  background: #e5e5e5;
+}
+
+.prettyfied-select .dropDown li img {
+  float: left;
+  margin-right: 5px;
+}
+.prettyfied-select .dropDown li i {
+  display: block;
+  margin: 0 0 0 21px;
+  font-weight: normal;
+}

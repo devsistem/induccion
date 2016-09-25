@@ -1,0 +1,287 @@
+[23-Jun-2016 10:41:52 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[23-Jun-2016 10:41:52 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[23-Jun-2016 10:41:52 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[23-Jun-2016 10:41:52 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[23-Jun-2016 10:41:52 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[23-Jun-2016 10:41:52 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[23-Jun-2016 10:41:52 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[23-Jun-2016 10:41:52 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[23-Jun-2016 10:41:52 America/Chicago] PHP Fatal error:  Class 'Producto' not found in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[18-Jul-2016 15:43:53 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/induccio/public_html/backend/backend/semanal.php on line 281
+[29-Jul-2016 10:16:07 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/induccio/public_html/backend/backend/semanal.php on line 392
+[29-Jul-2016 10:16:22 America/Chicago] PHP Parse error:  syntax error, unexpected ':' in /home/induccio/public_html/backend/backend/semanal.php on line 392
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:40:20 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:20 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:20 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:20 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:20 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:40:20 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 17
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 318
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: precio_desde in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 23
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: conprecio in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 24
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsPedido.php on line 1192
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cuen in /home/induccio/public_html/backend/backend/ifr_estado.php on line 515
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cedula in /home/induccio/public_html/backend/backend/ifr_estado.php on line 530
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 552
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_telefono in /home/induccio/public_html/backend/backend/ifr_estado.php on line 568
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cliente_celular in /home/induccio/public_html/backend/backend/ifr_estado.php on line 576
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_email in /home/induccio/public_html/backend/backend/ifr_estado.php on line 584
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_id_provincia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 595
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_id_canton in /home/induccio/public_html/backend/backend/ifr_estado.php on line 610
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 620
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_barrio in /home/induccio/public_html/backend/backend/ifr_estado.php on line 628
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle in /home/induccio/public_html/backend/backend/ifr_estado.php on line 636
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_numero in /home/induccio/public_html/backend/backend/ifr_estado.php on line 644
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_secundaria in /home/induccio/public_html/backend/backend/ifr_estado.php on line 652
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_cliente_referencia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 660
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_marca in /home/induccio/public_html/backend/backend/ifr_estado.php on line 684
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined index: registro in /home/induccio/public_html/backend/backend/ifr_estado.php on line 690
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_plazos in /home/induccio/public_html/backend/backend/ifr_estado.php on line 715
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 729
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_promocion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 783
+[11-Aug-2016 15:40:20 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 789
+[11-Aug-2016 15:40:21 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:40:21 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:40:21 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:21 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:21 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:21 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:21 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:40:21 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:40:21 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/include/clsLocalizacion.php on line 573
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:40:34 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:34 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:34 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:34 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:34 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:40:34 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 17
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 318
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: precio_desde in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 23
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: conprecio in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 24
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsPedido.php on line 1192
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cuen in /home/induccio/public_html/backend/backend/ifr_estado.php on line 515
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cedula in /home/induccio/public_html/backend/backend/ifr_estado.php on line 530
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 552
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_telefono in /home/induccio/public_html/backend/backend/ifr_estado.php on line 568
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cliente_celular in /home/induccio/public_html/backend/backend/ifr_estado.php on line 576
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_email in /home/induccio/public_html/backend/backend/ifr_estado.php on line 584
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_id_provincia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 595
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_id_canton in /home/induccio/public_html/backend/backend/ifr_estado.php on line 610
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 620
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_barrio in /home/induccio/public_html/backend/backend/ifr_estado.php on line 628
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle in /home/induccio/public_html/backend/backend/ifr_estado.php on line 636
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_numero in /home/induccio/public_html/backend/backend/ifr_estado.php on line 644
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_secundaria in /home/induccio/public_html/backend/backend/ifr_estado.php on line 652
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_cliente_referencia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 660
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_marca in /home/induccio/public_html/backend/backend/ifr_estado.php on line 684
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined index: registro in /home/induccio/public_html/backend/backend/ifr_estado.php on line 690
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_plazos in /home/induccio/public_html/backend/backend/ifr_estado.php on line 715
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 729
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_promocion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 783
+[11-Aug-2016 15:40:34 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 789
+[11-Aug-2016 15:40:35 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:40:35 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:40:35 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:35 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:40:35 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:35 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:40:35 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:40:35 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:40:35 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/include/clsLocalizacion.php on line 573
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:02 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:02 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:02 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:02 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:02 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:02 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined index: e in /home/induccio/public_html/backend/backend/pedidosv2.php on line 13
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined index: filtro_id_tipo in /home/induccio/public_html/backend/backend/pedidosv2.php on line 20
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined index: con_incidencias_graves in /home/induccio/public_html/backend/backend/pedidosv2.php on line 22
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 142
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 146
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 150
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 154
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 158
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 162
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: porPagina in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: paginacion in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: limite in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: palabra in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: destacado in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: filtro_id_categoria in /home/induccio/public_html/backend/backend/pedidosv2.php on line 166
+[11-Aug-2016 15:41:02 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: id_operador in /home/induccio/public_html/backend/backend/header.php on line 5
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsPedido.php on line 1192
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/induccio/public_html/backend/backend/include/funcFecha.php on line 33
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined offset: 2 in /home/induccio/public_html/backend/backend/include/funcFecha.php on line 36
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined offset: 1 in /home/induccio/public_html/backend/backend/include/funcFecha.php on line 37
+[11-Aug-2016 15:41:02 America/Chicago] PHP Notice:  Undefined index: dueno in /home/induccio/public_html/backend/backend/pedidosv2.php on line 1411
+[11-Aug-2016 15:41:52 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:52 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:52 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:52 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:52 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:52 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:52 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:52 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:52 America/Chicago] PHP Notice:  Undefined index: usuario in /home/induccio/public_html/backend/backend/ingreso.php on line 11
+[11-Aug-2016 15:41:52 America/Chicago] PHP Notice:  Undefined index: clave in /home/induccio/public_html/backend/backend/ingreso.php on line 12
+[11-Aug-2016 15:41:52 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/ingreso.php on line 13
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:55 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:55 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:55 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:55 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:55 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:55 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 17
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 318
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: precio_desde in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 23
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: conprecio in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 24
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsPedido.php on line 1192
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cuen in /home/induccio/public_html/backend/backend/ifr_estado.php on line 515
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cedula in /home/induccio/public_html/backend/backend/ifr_estado.php on line 530
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 552
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_telefono in /home/induccio/public_html/backend/backend/ifr_estado.php on line 568
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cliente_celular in /home/induccio/public_html/backend/backend/ifr_estado.php on line 576
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_email in /home/induccio/public_html/backend/backend/ifr_estado.php on line 584
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_id_provincia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 595
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_id_canton in /home/induccio/public_html/backend/backend/ifr_estado.php on line 610
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 620
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_barrio in /home/induccio/public_html/backend/backend/ifr_estado.php on line 628
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle in /home/induccio/public_html/backend/backend/ifr_estado.php on line 636
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_numero in /home/induccio/public_html/backend/backend/ifr_estado.php on line 644
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_secundaria in /home/induccio/public_html/backend/backend/ifr_estado.php on line 652
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_cliente_referencia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 660
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_marca in /home/induccio/public_html/backend/backend/ifr_estado.php on line 684
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined index: registro in /home/induccio/public_html/backend/backend/ifr_estado.php on line 690
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_plazos in /home/induccio/public_html/backend/backend/ifr_estado.php on line 715
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 729
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_promocion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 783
+[11-Aug-2016 15:41:55 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 789
+[11-Aug-2016 15:41:56 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:56 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:56 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:56 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:56 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:56 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:56 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:56 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:56 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/include/clsLocalizacion.php on line 573
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:58 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:58 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:58 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:41:58 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:41:58 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/index-session.php on line 16
+[11-Aug-2016 15:41:58 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:41:58 America/Chicago] PHP Notice:  Undefined variable: id_operador in /home/induccio/public_html/backend/backend/header.php on line 5
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:42:47 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:42:47 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined index: accion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 17
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 318
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: precio_desde in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 23
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: conprecio in /home/induccio/public_html/backend/backend/include/clsProducto.php on line 24
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: order_by in /home/induccio/public_html/backend/backend/include/clsPedido.php on line 1192
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cuen in /home/induccio/public_html/backend/backend/ifr_estado.php on line 515
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cedula in /home/induccio/public_html/backend/backend/ifr_estado.php on line 530
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 552
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_telefono in /home/induccio/public_html/backend/backend/ifr_estado.php on line 568
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cliente_celular in /home/induccio/public_html/backend/backend/ifr_estado.php on line 576
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_email in /home/induccio/public_html/backend/backend/ifr_estado.php on line 584
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_id_provincia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 595
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_id_canton in /home/induccio/public_html/backend/backend/ifr_estado.php on line 610
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_nombre in /home/induccio/public_html/backend/backend/ifr_estado.php on line 620
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_barrio in /home/induccio/public_html/backend/backend/ifr_estado.php on line 628
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle in /home/induccio/public_html/backend/backend/ifr_estado.php on line 636
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_numero in /home/induccio/public_html/backend/backend/ifr_estado.php on line 644
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cliente_calle_secundaria in /home/induccio/public_html/backend/backend/ifr_estado.php on line 652
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_cliente_referencia in /home/induccio/public_html/backend/backend/ifr_estado.php on line 660
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_marca in /home/induccio/public_html/backend/backend/ifr_estado.php on line 684
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined index: registro in /home/induccio/public_html/backend/backend/ifr_estado.php on line 690
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_plazos in /home/induccio/public_html/backend/backend/ifr_estado.php on line 715
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 729
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_promocion in /home/induccio/public_html/backend/backend/ifr_estado.php on line 783
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: css_forma_pago in /home/induccio/public_html/backend/backend/ifr_estado.php on line 789
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Constant CONF_FB_API already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 133
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Constant CONF_FB_SECRET already defined in /home/induccio/public_html/backend/backend/config/constants.php on line 134
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/frontend/cocinas/lang/es.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/frontend/cocinas/lang/es.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 74
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php): failed to open stream: No such file or directory in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:42:47 America/Chicago] PHP Warning:  include(): Failed opening '/home/induccio/public_html/backend/backend/admin/lenguaje/spanish.php' for inclusion (include_path='.:/usr/local/php55/pear') in /home/induccio/public_html/backend/backend/config/conn.php on line 77
+[11-Aug-2016 15:42:47 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/induccio/public_html/backend/backend/config/conn.php on line 116
+[11-Aug-2016 15:42:47 America/Chicago] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/induccio/public_html/backend/backend/include/funcCore.php(73) : eval()'d code on line 1
+[11-Aug-2016 15:42:47 America/Chicago] PHP Notice:  Undefined variable: filtro in /home/induccio/public_html/backend/backend/include/clsLocalizacion.php on line 573
+[30-Aug-2016 12:29:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/induccio/public_html/backend/backend/ifr_estado.php on line 12
+[31-Aug-2016 09:05:33 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/induccio/public_html/backend/backend/semanal.php on line 390
+[31-Aug-2016 09:28:56 America/Chicago] PHP Parse error:  syntax error, unexpected '0' (T_LNUMBER), expecting variable (T_VARIABLE) or '$' in /home/induccio/public_html/backend/backend/semanal.php on line 416
